@@ -1,9 +1,7 @@
-ABANDONNED DUE TO CHANGES RELATIVE TO STEAM
-
-https://steamcommunity.com/updates/chatupdate
-
 # Fuse
-A Steam chat client with a discord based interface and features
+An experimental Steam chat client with a Discord based interface and features.
+
+It's called "experimental" due to changes relative to Steam (https://steamcommunity.com/updates/chatupdate).
 
 ![logo](https://i.imgur.com/JM4lAWC.png)
 
